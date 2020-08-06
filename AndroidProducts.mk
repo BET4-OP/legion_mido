@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mido.mk
+    $(LOCAL_DIR)/legion_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mido-user \
-    lineage_mido-userdebug \
-    lineage_mido-eng
+    legion_mido-user \
+    legion_mido-userdebug \
+    legion_mido-eng
